@@ -1,0 +1,65 @@
+body {
+    font-family: 'Montserrat', sans-serif; 
+    line-height: 1.6; 
+    margin: 20px;
+}
+
+h1 {
+    background-color: lightgray; 
+    color: black;
+    text-align: center;
+    padding: 20px;
+    border-radius: 5px; 
+}
+
+h2 {
+    color: black;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+    font-size: 18px; 
+}
+
+li {
+    margin-bottom: 5px; 
+}
+
+a {
+    color: darkblue;
+    text-decoration: none; 
+}
+
+a:hover {
+    text-decoration: underline; 
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    width: 80%; 
+    max-width: 700px; 
+}
+
+table {
+    width: 60%; 
+    margin: 20px auto; 
+    border-collapse: collapse; 
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 10px; 
+    text-align: center;
+}
+
+th {
+    background-color: lightgray;
+    color: black;
+}
