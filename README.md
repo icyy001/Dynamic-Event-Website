@@ -1,6 +1,6 @@
-# Practical 2 – Dynamic Event Website
+Dynamic Event Website
 
-This is a small **university programming practical** for creating a simple dynamic event listing page.
+Originally developed as a learning project to explore frontend–backend interaction and dynamic content rendering.
 It demonstrates basic web development skills including:
 
 * **HTML** for page structure
@@ -18,7 +18,7 @@ It demonstrates basic web development skills including:
 ## How to View
 
 You can see the live version here:
-[**Live Demo**](https://icyy001.github.io/Practical-2-Dynamic-Event-Website/)
+[**Live Demo**](https://icyy001.github.io/Dynamic-Event-Website/)
 
 ## Technologies Used
 
