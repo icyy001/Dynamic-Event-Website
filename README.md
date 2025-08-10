@@ -18,7 +18,7 @@ It demonstrates basic web development skills including:
 ## How to View
 
 You can see the live version here:
-[**Live Demo**](https://icyy001.github.io/practical-2/)
+[**Live Demo**](https://icyy001.github.io/Practical-2-Dynamic-Event-Website/)
 
 ## Technologies Used
 
