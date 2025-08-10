@@ -10,6 +10,11 @@ A responsive event listing page that loads event data from a JSON file and rende
 ## Live Demo
 [**View Project**](https://icyy001.github.io/Dynamic-Event-Website/)
 
+## Screenshots
+
+<img src="./screenshots/live-desktop.png" alt="Dynamic Event Website — desktop view" width="900" />
+
+
 ## Technologies Used
 - HTML5
 - CSS3
