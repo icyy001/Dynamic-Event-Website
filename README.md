@@ -1,21 +1,27 @@
-Dynamic Event Website
-A lightweight event listing site that loads event data from a JSON file and renders it dynamically in the browser using vanilla JavaScript.
+# Dynamic Event Website
 
-Features
-Loads event details from a local JSON file via AJAX
+A responsive event listing page that loads event data from a JSON file and renders it dynamically in the browser using vanilla JavaScript.
 
-Updates the DOM dynamically without page reloads
+## Features
+- Loads event details from a local JSON file via AJAX (Fetch API)
+- Updates the DOM dynamically without page reloads
+- Minimal, responsive layout for clarity and usability
 
-Simple, clean, and responsive layout
+## Live Demo
+[**View Project**](https://icyy001.github.io/Dynamic-Event-Website/)
 
-Live Demo
-[**Live Demo**](https://icyy001.github.io/Dynamic-Event-Website/)
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript (vanilla)
+- JSON
 
-Technologies Used
-HTML5
+## How to Run Locally
+1. Download or clone this repository.
+2. Open `index.html` in a web browser.  
+   If your browser blocks `fetch` from local files, run a quick local server:
 
-CSS3
+   **Python 3**
+   ```bash
+   python -m http.server 8000
 
-JavaScript (vanilla)
-
-JSON
