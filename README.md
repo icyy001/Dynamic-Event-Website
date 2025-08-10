@@ -1,33 +1,29 @@
-Practical 2 – Dynamic Event Website
-This is a small university programming practical for creating a simple dynamic event listing page.
+# Practical 2 – Dynamic Event Website
+
+This is a small **university programming practical** for creating a simple dynamic event listing page.
 It demonstrates basic web development skills including:
 
-HTML for page structure
+* **HTML** for page structure
+* **CSS** for styling
+* **JavaScript** for dynamic content rendering
+* **JSON** as the data source
+* Loading content via **AJAX** requests
 
-CSS for styling
+## Features
 
-JavaScript for dynamic content rendering
+* Displays a list of events with details loaded from a local JSON file
+* Uses JavaScript to update the DOM dynamically
+* Simple, clean layout for quick readability
 
-JSON as the data source
+## How to View
 
-Loading content via AJAX requests
-
-Features
-Displays a list of events with details loaded from a local JSON file
-
-Uses JavaScript to update the DOM dynamically
-
-Simple, clean layout for quick readability
-
-How to View
 You can see the live version here:
-🔗 Live Demo
+[**Live Demo**](https://icyy001.github.io/practical-2/)
 
-Technologies Used
-HTML5
+## Technologies Used
 
-CSS3
+* HTML5
+* CSS3
+* JavaScript (vanilla)
+* JSON
 
-JavaScript (vanilla)
-
-JSON
